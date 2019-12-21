@@ -21,9 +21,9 @@ html {
 /* Write your solution here */
 
 @media screen and (max-width: 1090px) and (min-width: 642px) {
-  #monkey {
+  #dolphin {
     position: absolute;
-    top: 5px;
+    top: 200px;
   }
 }
 
